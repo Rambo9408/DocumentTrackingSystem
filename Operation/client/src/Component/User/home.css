@@ -1,0 +1,97 @@
+.box-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+  }
+  
+  .red-box {
+    background-color: #f24343;
+    border: 1px solid red;
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border-radius: 10px;
+    padding: 22px;
+    padding-inline: 39px;
+    margin-top: auto; /* Added margin-top: auto; */
+  }
+  
+  .blue-box {
+    background-color: #43bef7;
+    border: 1px solid blue;
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border-radius: 10px;
+    padding: 22px;
+    padding-inline: 39px;
+    margin-top: auto; /* Added margin-top: auto; */
+  }
+  
+  .green-box {
+    background-color: rgb(90, 227, 90);
+    border: 1px solid lightgreen;
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border-radius: 10px;
+    padding: 22px;
+    padding-inline: 39px;
+    margin-top: auto; /* Added margin-top: auto; */
+  }
+  
+  .yellow-box {
+    background-color: rgb(255, 217, 0);
+    border: 1px solid rgb(255, 217, 0);
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border-radius: 10px;
+    padding: 22px;
+    padding-inline: 39px;
+    margin-top: auto; /* Added margin-top: auto; */
+  }
+  
+  .black-box {
+    display: flex;
+    background-color: #434242;
+    color: white;
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+  }
+  
+  .table-container {
+    margin: 10px 20px;
+    padding: 30px;
+  }
+  
+  .user-form {
+    margin-left: 200px;
+    margin-top: 40px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .ml-auto {
+    margin-left: auto !important;
+  }
+  
+  .transform {
+    transform: scale(2);
+  }
+  
+  .icon-background {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 8px;
+  }
